@@ -1,0 +1,3 @@
+skills: python, AI/ML, gen AI ; career: Ai/ML engineer
+skills: cloud, CI/CD, IAC, ansible ; career: Devops engineer
+skills: java, kotlin, android, swift, IOS ; career: App developer
